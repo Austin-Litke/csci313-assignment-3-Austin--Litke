@@ -1,0 +1,23 @@
+.sidebar-nav {
+    margin-top: 20px;
+    padding: 0;
+    list-style: none;
+}
+/* styles.css */
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #6d4f4f;
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    color: #0937f0;
+}
+
+p {
+    color: #151313;
+}
+
+/* Add more styles as needed */
